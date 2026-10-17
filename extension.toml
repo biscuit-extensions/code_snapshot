@@ -1,0 +1,7 @@
+[extension]
+id = "code_snapshot"
+name = "Code Snapshot"
+version = "0.1.0"
+description = "Code Snapshot extension for Biscuit"
+author = "biscuit-extensions"
+icon = "icon.png"
